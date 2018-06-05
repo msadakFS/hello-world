@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Hellow there. I am a robot.
+Hello there. I am a robot.
